@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/aiserver/.venv/bin/python",
+  "python.analysis.extraPaths": ["${workspaceFolder}/aiserver"],
+  "python.terminal.activateEnvironment": true
+}
